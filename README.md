@@ -5,7 +5,7 @@ Author - Kamireddy Mahendra
 <br>
 YouTube - MeanLifeStudies
 <br>
-Medium - Kamireddy Mahendra
+Medium - Kamireddy Mahendra & MeanLifeStudies
 <br>
 MailId - Meetmahendra301@gmail.com
 
